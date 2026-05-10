@@ -1,6 +1,6 @@
 {
   "name": "labcore-tunnel",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Secure, fast, and multi-protocol reverse tunneling CLI",
   "main": "index.js",
   "bin": {
