@@ -14,3 +14,7 @@ client_windows/
 .env
 cloudflare.ini
 *.conf
+
+#others
+.git_private
+.gitignore_private
