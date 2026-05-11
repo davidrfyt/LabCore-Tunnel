@@ -8,6 +8,7 @@ yarn-error.log
 
 # Only publish the Client to GitHub. Keep the entire server private.
 server/
+client_windows/
 
 # Environment and Config files
 .env
